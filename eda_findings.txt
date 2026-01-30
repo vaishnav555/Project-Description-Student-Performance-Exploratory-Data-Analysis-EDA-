@@ -1,0 +1,9 @@
+EDA FINDINGS – STUDENTS PERFORMANCE DATA
+
+1. Dataset includes 200 student records with academic and behavioral attributes.
+2. Missing values were present in study hours, attendance, and subject scores.
+3. Significant outliers were detected in Math_Score.
+4. IQR-based capping was applied to handle outliers.
+5. Study hours and attendance show positive correlation with exam scores.
+6. Subject-wise scores show moderate correlation.
+7. Cleaned dataset is suitable for analytics and ML tasks.
